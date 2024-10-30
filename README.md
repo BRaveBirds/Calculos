@@ -26,5 +26,3 @@ Desenvolvida no âmbito da ação de formação **_Introdução ao Git e GitHub_
 - Plataforma GitHub
 
 João Martins
-
- 
